@@ -1,3 +1,6 @@
+# reactjs-apollo-client-graphql
+reactjs, apollo-client, graphql, pwa, styled-components, typescript, web-vitals
+
 # Dialog FullStack (react/pwa/node) Test
 
 ## Objetivo
@@ -115,4 +118,8 @@ https://graphql-code-generator.com/
   --header 'Content-Type: application/json' \
   --data '{"query":"query {\n  list(name: \"il\") {\n    name\n    friends(name: \"li\") {\n      name\n    }\n  }\n}"}'
 
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> a473f44ba9d8a766cfe1f25693108715826483af
